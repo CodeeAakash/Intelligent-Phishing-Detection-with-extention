@@ -1,0 +1,19 @@
+{
+    "name": "Trinetra:THE DETECTIVE's EYE",
+    "version": "1.0",
+    "manifest_version": 2,
+    "icons": { 
+        "16": "detective.png",
+        "48": "detective.png",
+        "128": "detective.png" 
+   },
+    "permissions": [
+        "webRequest",
+        "webRequestBlocking",
+        "http://*/",
+        "https://*/"
+    ],
+    "background": {
+        "scripts": ["background.js"]
+    }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "com.example.phishingdetector",
+  "description": "Native messaging host for phishing detector extension",
+  "path": "D:\\Software\\Python 3.9\\python.exe",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://[gabfmakemldaedmafkedbeceakehkbod]/"
+  ]
+}
